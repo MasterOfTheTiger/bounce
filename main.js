@@ -22,6 +22,8 @@ writeRandomQuote = function () {
    quote[18] = "Success is a lousy teacher. It seduces smart people into thinking they can't lose. - Bill Gates";
    quote[19] = "I think when you spread the wealth around it's good for everybody. - Barack Obama";
    quote[20] = "Storage Almost Full - iOS";
+   quote[21] = "Talk is cheap. Show me the code. - Linus Torvalds";
+   quote[22] = "In order to succeed, we must first believe that we can. - Nikos Kazantzakis";
 
    var rand = Math.floor(Math.random()*quote.length);
    document.write(quote[rand]);
