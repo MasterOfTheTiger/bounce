@@ -1,4 +1,4 @@
-// The main qoute picker code
+// The main quote picker code
 writeRandomQuote = function () {
    var quote = new Array();
    quote[0] = "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. - Albert Einstein";
