@@ -28,7 +28,7 @@ writeRandomQuote = function () {
    quote[24] = "I am a person. - whatisthisusername";
 
    var rand = Math.floor(Math.random()*quote.length);
-   document.getElementById("lead").innerText = quote[rand]
+   document.write(quote[rand]);
  }
  writeRandomQuote();
 
