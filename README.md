@@ -13,5 +13,5 @@ git clone https://github.com/vutondesign/bounce.git
 ``` 
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/mymit/).
+🎨 with ❤️ by vutondesign under the [MIT License](http://ktrvs.com/mymit/).
 
