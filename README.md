@@ -9,7 +9,7 @@ Visit the [website](https://vutondesign.com/bounce/).
 
 ### Clone 
 ```
-git clone https://github.com/vutondesign/bounce.git
+git clone https://github.com/ktrvs/bounce.git
 ``` 
 
 ### License 
