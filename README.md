@@ -5,7 +5,7 @@
 </p>
 
 ### Usage
-Visit the [website](https://vutondesign.com/bounce/).
+Visit the [website](http://ktrvs.github.io/wave).
 
 ### Clone 
 ```
@@ -13,5 +13,5 @@ git clone https://github.com/ktrvs/bounce.git
 ``` 
 
 ### License 
-🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.github.io/wave).
 
