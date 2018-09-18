@@ -26,6 +26,7 @@ writeRandomQuote = function () {
    quote[22] = "In order to succeed, we must first believe that we can. - Nikos Kazantzakis";
    quote[23] = "It's Leviosa not Leviosar. - Hermione Granger";
    quote[24] = "I am a person. - whatisthisusername";
+   quote[25] = "Wait what, wait, what?, Is not. It's exuse me, what?. - Iamtregsthedev";
 
    var rand = Math.floor(Math.random()*quote.length);
    document.write(quote[rand]);
@@ -34,3 +35,5 @@ writeRandomQuote = function () {
 
  // Post friendly little console log
 console.log("Hello, Welcome to the site!");
+console.log("Make Sure to Check us out! https://github.com/woodfi/");
+// Console.log Over
