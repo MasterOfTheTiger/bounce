@@ -26,7 +26,7 @@ writeRandomQuote = function () {
    quote[22] = "In order to succeed, we must first believe that we can. - Nikos Kazantzakis";
    quote[23] = "It's Leviosa not Leviosar. - Hermione Granger";
    quote[24] = "I am a person. - whatisthisusername";
-   quote[25] = "Wait what, wait, what?, Is not. It's exuse me, what?. - Iamtregsthedev";
+     quote[24] = "I am a person, not a bot. - unknown";
 
    var rand = Math.floor(Math.random()*quote.length);
    document.write(quote[rand]);
